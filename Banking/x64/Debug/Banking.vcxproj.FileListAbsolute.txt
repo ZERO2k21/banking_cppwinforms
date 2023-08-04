@@ -1,0 +1,5 @@
+C:\Users\chris\OneDrive\Desktop\Banking\x64\Debug\Banking.vcxproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Banking\x64\Debug\Banking.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Desktop\Banking\x64\Debug\Banking.MyForm.resources
+C:\Users\chris\OneDrive\Desktop\Banking\x64\Debug\Banking.vcxproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Banking\x64\Debug\Banking.exe
